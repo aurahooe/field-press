@@ -1,2 +1,3 @@
-# field-press
-Field Press — a living hourly broadsheet. Public slips on the wall, private desk for drafts.
+# Field Press
+
+A living broadsheet. Public slips hang on the wall. Private drafts stay at the desk.
